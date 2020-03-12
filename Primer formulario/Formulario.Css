@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+     background-image: url(FondoLogin.png);
+}
+
+.FormularioRegistro
+{
+    width: 400px;
+    background: orchid;
+    padding: 30px;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    box-shadow: 7px 13px 37px #000000;
+}
+
+.FormularioRegistro h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+    background: orchid;
+}
+
+.Control
+{
+    width: 100%;
+    background-color: peachpuff;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1x solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: black;
+}
+
+.FormularioRegistro p{
+    height: 40px;
+    text-align:  center;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+.FormularioRegistro a{
+    color: peachpuff;
+    text-decoration: none;
+}
+
+.FormularioRegistro a:hover{
+    color: peachpuff;
+    text-decoration: underline;
+}
+
+.FormularioRegistro .Boton{
+    width: 100%;
+    border: none;
+    background-color: peachpuff;
+    padding: 12px;
+    color:  gray;
+    margin: 16px 0;
+    font-size: 16px;
+
+}
