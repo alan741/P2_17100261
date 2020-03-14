@@ -1,0 +1,44 @@
+
+body{
+    background:url(FondoLogin.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.FormularioRegistro
+{
+    width: 425px;
+    background: orchid;
+    padding: 30px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    border-radius: 4px;
+    box-shadow: 7px 13px 37px #000000;
+}
+
+.FormularioRegistro h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+    background: orchid;
+}
+
+.FormularioRegistro p{
+    height: 40px;
+    text-align:  center;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+.FormularioRegistro a{
+    color: peachpuff;
+    text-decoration: none;
+}
+
+.FormularioRegistro a:hover{
+    text-decoration: underline;
+}
+
+.FormularioRegistro .Boton{
+    background-color: peachpuff;
+    font-size: 16px;
+}
