@@ -1,0 +1,8 @@
+Create database Empresa
+
+Create table empleado(
+	id int not null primary key,
+	Nombre varchar(25) not null,
+	Apellido varchar(25) not null,
+	Puesto varchar(25) not null
+)
