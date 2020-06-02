@@ -6,3 +6,9 @@ Create table empleado(
 	Apellido varchar(25) not null,
 	Puesto varchar(25) not null
 )
+
+INSERT INTO `empleado` (`id`, `Nombre`, `Apellido`, `Puesto`) VALUES ('10', 'Michelle', 'Garcia', 'Secretaria');
+INSERT INTO `empleado` (`id`, `Nombre`, `Apellido`, `Puesto`) VALUES ('1', 'Alan', 'Morales', 'Director general');
+INSERT INTO `empleado` (`id`, `Nombre`, `Apellido`, `Puesto`) VALUES ('2', 'David', 'Morales', 'Gerente');
+INSERT INTO `empleado` (`id`, `Nombre`, `Apellido`, `Puesto`) VALUES ('3', 'Maria', 'Rueda', 'Secretaria');
+INSERT INTO `empleado` (`id`, `Nombre`, `Apellido`, `Puesto`) VALUES ('4', 'Melissa', 'Morales', 'Obrero');
